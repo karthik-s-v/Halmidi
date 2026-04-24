@@ -1,0 +1,46 @@
+.results-card {
+  max-height: 70vh;
+  overflow-y: auto;
+  background: linear-gradient(180deg, #1a1a1a, #0f0f0f);
+  padding: 25px;
+  border-radius: 14px;
+}
+
+.results-card h3 {
+  color: #ff9800;
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+}
+
+.result-block {
+  margin-bottom: 28px;
+}
+
+.result-block h4 {
+  color: #ffb347;
+  margin-bottom: 10px;
+}
+
+.kannada-box {
+  background: #0f0f0f;
+  border-left: 4px solid #ff9800;
+  padding: 18px;
+  font-size: 1.8rem;
+  color: #ffd27d;
+  border-radius: 10px;
+}
+
+.analysis-text {
+  background: #0c0c0c;
+  padding: 18px;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: #ddd;
+  white-space: pre-wrap;
+}
+
+.placeholder {
+  color: #666;
+  font-style: italic;
+}

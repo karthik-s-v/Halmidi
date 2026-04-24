@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.venv313/
+.env
+.env.*
+uploads/
+segmented_output/

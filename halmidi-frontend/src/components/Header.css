@@ -1,0 +1,20 @@
+.header {
+  background: linear-gradient(90deg, #7a0000, #ff9800);
+  padding: 25px;
+  border-radius: 14px;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.1rem;
+  color: #fff;
+}
+
+.header p {
+  margin-top: 8px;
+  font-size: 0.95rem;
+  color: #ffe7c4;
+  letter-spacing: 1px;
+}

@@ -1,0 +1,62 @@
+.upload-card {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  background: linear-gradient(180deg, #1a1a1a, #0f0f0f);
+  padding: 25px;
+  border-radius: 14px;
+}
+
+.upload-card h3 {
+  color: #ff9800;
+  font-size: 1.2rem;
+}
+
+.upload-box {
+  border: 2px dashed #555;
+  border-radius: 14px;
+  padding: 30px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.upload-title {
+  color: #ffd27d;
+  font-size: 1rem;
+}
+
+.upload-sub {
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+.preview-box {
+  background: #0c0c0c;
+  padding: 10px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.preview-box img {
+  max-width: 100%;
+  max-height: 220px;
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+.translate-btn {
+  align-self: center;
+  padding: 12px 34px;
+  background: linear-gradient(90deg, #7a0000, #ff9800);
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.tip {
+  font-size: 0.75rem;
+  color: #888;
+  text-align: center;
+}
